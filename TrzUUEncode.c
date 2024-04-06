@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
+// NOT COMPLETE YET
 
 unsigned short CalcCRC16(char *, unsigned long, unsigned short);
 
